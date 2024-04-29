@@ -10,6 +10,20 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Algorithm
 STEP1: Start
 
+STEP2:Import the necessary python packages using import statements.
+
+STEP3:Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
+
+STEP4:Split the dataset using train_test_split.
+
+STEP5:Calculate Y_Pred and accuracy.
+
+STEP6:Print all the outputs.
+
+STEP7:End the Program.
+
+STEP8: Stop
+
 ## Program:
 ```
 /*
