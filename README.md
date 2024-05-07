@@ -1,3 +1,4 @@
+
 # Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
@@ -58,8 +59,18 @@ accuracy
 ```
 
 ## Output:
-### Result
+### result
 ![image](https://github.com/amal-2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/148410730/3d85ed0d-8cbe-4489-9c3a-c229e89ec80b)
+### data.head()
+![image](https://github.com/amal-2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/148410730/a099c02f-4f26-498c-aabd-16c69e53c82f)
+### data.info()
+![image](https://github.com/amal-2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/148410730/df76ba5b-680e-4a34-9ee1-8b4cd746b096)
+### data.isnull.sum()
+![image](https://github.com/amal-2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/148410730/a48408d8-2f7c-468f-ae8b-d5c64a6f1643)
+### y_pred
+![image](https://github.com/amal-2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/148410730/13d7d225-1be2-4043-9788-4b2dc14c50d2)
+### accuracy
+![image](https://github.com/amal-2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/148410730/eefcd515-b00f-46df-9ce3-8aa983bac501)
 
 
 
